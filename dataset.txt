@@ -1,0 +1,9 @@
+Link to TIMIT dataset :
+
+	1. SNR level : 0dB   : https://drive.google.com/file/d/1mKSiwQU0OoiqK_CYOweBhcLxC57NVgx4/view?usp=drive_link
+	2. SNR level : 10db  : https://drive.google.com/file/d/1qhvTTUYtLAvq5ZJEXaq7wJ53R7qFvF2u/view?usp=drive_link
+	3. SNR level : -10db : https://drive.google.com/file/d/1Rts8fgI_X8hYFZN5UwuETNQOq4U0mCK7/view?usp=drive_link
+	4. SNR level : mix   : https://drive.google.com/file/d/19tQ4ccejWh8WtE3Vn57aZGChVWUOYdFn/view?usp=drive_link
+
+Link to Butterworth dataset:
+	1. https://drive.google.com/file/d/1AQVQb7M9CZua0oNP3Gx6O2cR6lYhsydX/view?usp=drive_link
